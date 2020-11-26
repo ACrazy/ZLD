@@ -1,8 +1,5 @@
 {
   "name": "vue-vux-demo",
-  "version": "1.0.0",
-  "description": "dyw",
-  "author": "eason <1137772623@qq.com>",
   "private": false,
   "scripts": {
     "build": "node build/build.js",
